@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/vite-react-example/'
+  base: 'https://masgcode.github.io/vite-react-example/'
 })
